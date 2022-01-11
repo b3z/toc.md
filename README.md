@@ -8,7 +8,7 @@ Markdown TOC - Table of contents generator
 ```zsh
 curl -L https://raw.githubusercontent.com/b3z/toc.md/master/toc.sh >> $HOME/.zshrc
 ```
-Copies given function to `.zshrc`. Reload shell afterwards.
+Copies given function to `.zshrc`. Reload shell afterwards. (Fast way: `source ~/.zshrc`)
 
 Pro tip. For bash or whatever you use add [this](https://raw.githubusercontent.com/b3z/toc.md/master/toc.sh) function to your config (e.g. .bashrc).
 
